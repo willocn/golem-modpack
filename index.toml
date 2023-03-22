@@ -32,3 +32,7 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "b502666a5592851ef1f4cf49f62104bc16c51b225989fe1c10bdde67498582a3"
