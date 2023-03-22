@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "1885a38e0e070053c0c136f70dac82733fbb8c546af495d8fe1068916e3cb185"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c7099714e081561e8a2f2b29cf3b2a1e397bb5a7c8ce313f8fcd15316363e600"
+metafile = true
