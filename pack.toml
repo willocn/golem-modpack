@@ -1,12 +1,12 @@
 name = "Golem"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "090e7c0f41f68c8c2c280d5294db3e75b842fa6fa5c9d4e4637e31a14a0be4b3"
+hash = "dfaabb78ebfb9c92b711674dbac080db8129d6bd610f4f27b5501c25960c3cf1"
 
 [versions]
-fabric = "0.14.17"
-minecraft = "1.19.2"
+fabric = "0.14.18"
+minecraft = "1.19.4"
