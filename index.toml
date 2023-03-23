@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8814cc64db4c64490fba48ea67d22c8f31617979756f993da6372a84aea99d13"
+hash = "a9571e6d5721a1f962ba290b8e636ca78fcbf7a3a867080741c46e0aa5c39019"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
