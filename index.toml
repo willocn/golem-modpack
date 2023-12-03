@@ -10,27 +10,22 @@ hash = "1885a38e0e070053c0c136f70dac82733fbb8c546af495d8fe1068916e3cb185"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c01f00bc3f4e37b70a9a6aab6041ae40708b0068769770c1ec1f899429ab71b5"
+hash = "c34eb23925b18aba0ea6386d9dda284d7aa1e4984480f91fa5c2a6f3e6ceb4a5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
 metafile = true
 
 [[files]]
