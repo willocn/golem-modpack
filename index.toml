@@ -25,9 +25,5 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "4198bbe1756d96d29a82f0134bcbd5f7a2b5c4447b8628fc19fda0d9c712f868"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "b502666a5592851ef1f4cf49f62104bc16c51b225989fe1c10bdde67498582a3"
