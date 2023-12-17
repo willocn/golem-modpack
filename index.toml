@@ -9,6 +9,16 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "1885a38e0e070053c0c136f70dac82733fbb8c546af495d8fe1068916e3cb185"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
+metafile = true
+
+[[files]]
+file = "mods/golem-companion.pw.toml"
+hash = "1f17fdee4196698b6c2a637661e251f9837b1c5cd8bf082f6b7bfada2d9a53cf"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true

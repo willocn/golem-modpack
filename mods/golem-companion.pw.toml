@@ -1,0 +1,13 @@
+name = "Golem Companion"
+filename = "golem-companion-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Phx6OjRV/versions/9qkVjOUZ/golem-companion-1.0.1.jar"
+hash-format = "sha1"
+hash = "d702851aa60f223157892c1adae85d0646002d3e"
+
+[update]
+[update.modrinth]
+mod-id = "Phx6OjRV"
+version = "9qkVjOUZ"
